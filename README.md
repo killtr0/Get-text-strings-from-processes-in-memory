@@ -1,4 +1,4 @@
-# -Hacking-memory-with-ReadProcessMemory-POC-.
+#Hacking memory with ReadProcessMemory POC.
 
 Source code and executable for the proof of concept published in my blog 
 
