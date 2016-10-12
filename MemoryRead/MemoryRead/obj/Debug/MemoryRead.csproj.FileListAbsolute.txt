@@ -1,0 +1,5 @@
+c:\users\alejandro\documents\visual studio 2015\Projects\MemoryRead\MemoryRead\bin\Debug\MemoryRead.exe
+c:\users\alejandro\documents\visual studio 2015\Projects\MemoryRead\MemoryRead\bin\Debug\MemoryRead.pdb
+c:\users\alejandro\documents\visual studio 2015\Projects\MemoryRead\MemoryRead\obj\Debug\MemoryRead.csprojResolveAssemblyReference.cache
+c:\users\alejandro\documents\visual studio 2015\Projects\MemoryRead\MemoryRead\obj\Debug\MemoryRead.exe
+c:\users\alejandro\documents\visual studio 2015\Projects\MemoryRead\MemoryRead\obj\Debug\MemoryRead.pdb
